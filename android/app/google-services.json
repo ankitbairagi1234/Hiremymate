@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890267743178",
+    "project_id": "hiremymate-6fe85",
+    "storage_bucket": "hiremymate-6fe85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890267743178:android:2238f3db40f6a72a041533",
+        "android_client_info": {
+          "package_name": "com.example.hiremymate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890267743178-2l5hu3ao7cqtcmr6app7kabsuhk255re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArg8zqkG8rO6gVl-hyth8FrVgwBH1FW3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890267743178-2l5hu3ao7cqtcmr6app7kabsuhk255re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
